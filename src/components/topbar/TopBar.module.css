@@ -49,6 +49,7 @@
   font-weight: 300;
   cursor: pointer;
   margin-right: 14px;
+  text-transform: uppercase;
 }
 
 .topSearchIcon {
